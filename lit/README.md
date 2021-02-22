@@ -23,3 +23,8 @@ Any of these should be captured by a good model, but some indicators of zone v m
 * Truncate plays when ball thrown
 * Possibly truncate after certain amount of frames have elapsed (zone coverage looks like man after some time has elapsed)
 * Treat red zone and / or goal line differently
+
+## Notebooks that classify coverage
+
+* [CoverNet: Evaluating Coverages with a CNN](https://www.kaggle.com/louiszya/covernet-evaluating-coverages-with-a-cnn)
+* [Automated play charting with computer vision](https://www.kaggle.com/chrisfenton/uncharted-territory/notebook)
