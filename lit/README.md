@@ -8,6 +8,14 @@ Ideas for DeepCover
 
 Obviously, the actual inputs need to be different. For one, orientation is likely to be important, and especially orientation to QB. For another, there are many more offensive players of interest than just one running back. In addition, there are varying numbers of offensive and defensive players on each play. Finally, last year's BDB only had one frame, so this needs to be extended to something that can handle time data (CNN-LTSM?).
 
+## Things to capture
+
+Any of these should be captured by a good model, but some indicators of zone v man:
+
+* Orientation towards QB or receiver
+* Drop depth of intermediate defenders (LBs)
+* Situation? (3rd & long more likely two-high?)
+
 ## Things to try
 
 * [Augmentation & TTA](https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/119400): flip plays along y-axis (see last year's BDB solution)
