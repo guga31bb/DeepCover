@@ -19,3 +19,7 @@ Any of these should be captured by a good model, but some indicators of zone v m
 ## Things to try
 
 * [Augmentation & TTA](https://www.kaggle.com/c/nfl-big-data-bowl-2020/discussion/119400): flip plays along y-axis (see last year's BDB solution)
+* Discard very short plays where can't tell what coverage is
+* Truncate plays when ball thrown
+* Possibly truncate after certain amount of frames have elapsed (zone coverage looks like man after some time has elapsed)
+* Treat red zone and / or goal line differently
