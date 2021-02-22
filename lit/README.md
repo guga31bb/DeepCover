@@ -28,3 +28,4 @@ Any of these should be captured by a good model, but some indicators of zone v m
 
 * [CoverNet: Evaluating Coverages with a CNN](https://www.kaggle.com/louiszya/covernet-evaluating-coverages-with-a-cnn)
 * [Automated play charting with computer vision](https://www.kaggle.com/chrisfenton/uncharted-territory/notebook)
+* [A Novel Method For Classifying Pass Defenses at 97% Accuracy](https://www.kaggle.com/powerthinking/how-nfl-pass-defenses-can-learn-from-poker-players) (note: it's possible this is overfit but I can't tell)
